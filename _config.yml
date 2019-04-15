@@ -1,9 +1,9 @@
 # Site settings
-title: "Phú Quốc Đảo"
-url-title: "Điểm hẹn Phú Quốc"
-description: "Phú Quốc và nơi hẹn hò"
+title: "Món Ngon Hằng Ngày"
+url-title: "Món Ngon Hằng Ngày"
+description: "Món Ngon Hằng Ngày"
 paginate: 100
-url: "https://appstore3.info/"
+url: "https://appstore4.info/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
