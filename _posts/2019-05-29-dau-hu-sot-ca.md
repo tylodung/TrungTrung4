@@ -12,7 +12,7 @@ custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc v�
 
 – 450g đậu phụ; 5 quả cà chua cỡ trung bình; 15g sốt cà chua (mua ở siêu thị); 8ml nước mắm; 5g muối; 10g đường; 120ml nước
 
-– Dầu để chiên
+– Dầu để chiên.
 
 **Cách làm:**
 

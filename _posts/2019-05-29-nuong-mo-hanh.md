@@ -11,7 +11,7 @@ custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc v�
 
 **Nguyên liệu:** 
 
-Đậu phụ tươi, hành lá, xì dầu, tiêu
+Đậu phụ tươi, hành lá, xì dầu, tiêu.
 
 **Cách làm:**
 
@@ -19,6 +19,8 @@ custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc v�
 
 – Pha xì dầu, muối, tiêu và một ít ớt bột (tuỳ thích) vào với nhau rồi phết lên từng miếng đậu.
 
-– Cho đậu vào lò nướng, chỉnh ở 150 độ, nướng trong khoảng 20’. Trong lúc nướng, bạn nhớ liên tục phết sốt lên để miếng đậu thêm đậm đà nhé!
+– Cho đậu vào lò nướng, chỉnh ở 150 độ, nướng trong khoảng 20’. 
+
+Trong lúc nướng, bạn nhớ liên tục phết sốt lên để miếng đậu thêm đậm đà nhé!
 
 – Khi chín, bạn lấy đậu ra, rắc thêm tiêu và hành lá lên trên là xong.

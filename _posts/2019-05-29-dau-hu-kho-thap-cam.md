@@ -30,7 +30,7 @@ custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc v�
 
 + 2 muỗng cà phê đường
 
-+ Dầu ăn, tiêu
++ Dầu ăn, tiêu.
 
 **Cách làm**
 
